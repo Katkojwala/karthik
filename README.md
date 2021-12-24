@@ -1,2 +1,1 @@
-<<<<<<< HEAD
-Devops Project thanks kaka
+Devops Project thanks 2.0
